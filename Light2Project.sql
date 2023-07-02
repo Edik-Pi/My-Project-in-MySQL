@@ -1,0 +1,1 @@
+SELECT * FROM light1.catalogs;
